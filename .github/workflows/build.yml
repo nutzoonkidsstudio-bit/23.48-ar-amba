@@ -27,3 +27,4 @@ jobs:
         with:
           name: altyazi-ceviri-apk
           path: app/build/outputs/apk/debug/app-debug.apk
+
